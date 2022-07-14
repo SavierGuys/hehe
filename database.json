@@ -227,7 +227,7 @@
       "catexp": 0
     },
     "62895354320255@s.whatsapp.net": {
-      "exp": 4071205,
+      "exp": 4071254,
       "limit": 2595,
       "joinlimit": 1,
       "spammer": 0,
@@ -3391,14 +3391,14 @@
       "catexp": 0
     },
     "6285750807318@s.whatsapp.net": {
-      "exp": 788185,
-      "limit": 561,
+      "exp": 897765,
+      "limit": 548,
       "joinlimit": 1,
       "spammer": 0,
       "money": 0,
-      "bank": 7054628,
-      "health": 188,
-      "tiketcoin": 95,
+      "bank": 7514239,
+      "health": 128,
+      "tiketcoin": 97,
       "healtmonster": 100,
       "armormonster": 0,
       "lastclaim": 1657705069529,
@@ -3417,14 +3417,14 @@
       "level": 13,
       "role": "Commander",
       "autolevelup": true,
-      "potion": 43,
+      "potion": 42,
       "trash": 0,
-      "sampah": 747,
+      "sampah": 771,
       "wood": 0,
       "rock": 0,
       "string": 6,
       "emerald": 0,
-      "diamond": 111,
+      "diamond": 121,
       "berlian": 5,
       "emas": 5,
       "gold": 0,
@@ -3440,19 +3440,19 @@
       "bibitjeruk": 0,
       "bibitapel": 0,
       "gardenboxs": 0,
-      "botol": 0,
-      "kardus": 0,
-      "kaleng": 0,
+      "botol": 132,
+      "kardus": 301,
+      "kaleng": 420,
       "aqua": 5,
-      "kayu": 606,
+      "kayu": 674,
       "batu": 7,
       "kapak": 0,
       "cupon": 0,
       "boxs": 0,
-      "common": 61,
-      "uncommon": 40,
-      "mythic": 8,
-      "legendary": 7,
+      "common": 65,
+      "uncommon": 42,
+      "mythic": 10,
+      "legendary": 9,
       "pet": 0,
       "ramuan": 0,
       "ramuannagalast": 0,
@@ -3537,7 +3537,7 @@
       "weapon": 0,
       "weapondurability": 0,
       "sword": 1,
-      "sworddurability": -280,
+      "sworddurability": -322,
       "pickaxe": 0,
       "pickaxedurability": 0,
       "fishingrod": 0,
@@ -3590,23 +3590,23 @@
       "lastmancingextreme": 0,
       "lastwarpet": 0,
       "lastpekerjaan": 0,
-      "lastadventure": 1657754348940,
+      "lastadventure": 1657760024834,
       "lastfishing": 0,
-      "lastdungeon": 1657756087404,
+      "lastdungeon": 1657759970177,
       "lastcrusade": 0,
       "lastduel": 0,
       "lastcode": 1657695041808,
       "lastlink": 1657618910383,
       "lastnambang": 1657750760134,
       "lastmining": 1657754614644,
-      "lasthunt": 1657755458750,
+      "lasthunt": 1657759908375,
       "lastweekly": 1657705149150,
       "lastmonthly": 1657705107971,
       "lastrob": 1657755119124,
       "lastbunuhi": 1657755020612,
       "lastopen": 1657755840689,
       "lasteasy": 0,
-      "lastmulung": 1657755180610,
+      "lastmulung": 1657760058640,
       "lastdagang": 0,
       "lastnebang": 0,
       "lastberkebon": 0,
@@ -11213,16 +11213,16 @@
       "lastSuccess": 1657751933766
     },
     "mulung.js": {
-      "total": 339,
-      "success": 237,
-      "last": 1657756163241,
-      "lastSuccess": 1657755180611
+      "total": 340,
+      "success": 238,
+      "last": 1657760058640,
+      "lastSuccess": 1657760058640
     },
     "menu.js": {
-      "total": 157,
-      "success": 157,
-      "last": 1657756436822,
-      "lastSuccess": 1657756436822
+      "total": 158,
+      "success": 158,
+      "last": 1657759950272,
+      "lastSuccess": 1657759950272
     },
     "afk.js": {
       "total": 44,
@@ -11231,10 +11231,10 @@
       "lastSuccess": 1657754138189
     },
     "inv.js": {
-      "total": 473,
-      "success": 473,
-      "last": 1657755944094,
-      "lastSuccess": 1657755944094
+      "total": 477,
+      "success": 477,
+      "last": 1657760074779,
+      "lastSuccess": 1657760074779
     },
     "simulate.js": {
       "total": 4,
@@ -11369,10 +11369,10 @@
       "lastSuccess": 1657712434056
     },
     "atmplus.js": {
-      "total": 891,
-      "success": 891,
-      "last": 1657756098562,
-      "lastSuccess": 1657756098562
+      "total": 894,
+      "success": 894,
+      "last": 1657760031769,
+      "lastSuccess": 1657760031769
     },
     "levelup.js": {
       "total": 59,
@@ -11381,10 +11381,10 @@
       "lastSuccess": 0
     },
     "adventure.js": {
-      "total": 211,
-      "success": 211,
-      "last": 1657756157116,
-      "lastSuccess": 1657756157116
+      "total": 213,
+      "success": 213,
+      "last": 1657760051063,
+      "lastSuccess": 1657760051063
     },
     "pengumuman.js": {
       "total": 36,
@@ -11411,10 +11411,10 @@
       "lastSuccess": 1657600276554
     },
     "health.js": {
-      "total": 197,
-      "success": 197,
-      "last": 1657756395486,
-      "lastSuccess": 1657756395486
+      "total": 199,
+      "success": 199,
+      "last": 1657760008066,
+      "lastSuccess": 1657760008066
     },
     "merampok.js": {
       "total": 212,
@@ -11423,9 +11423,9 @@
       "lastSuccess": 1657755542035
     },
     "nambang.js": {
-      "total": 134,
+      "total": 135,
       "success": 46,
-      "last": 1657755175307,
+      "last": 1657760069231,
       "lastSuccess": 1657755167981
     },
     "tagall.js": {
@@ -11591,10 +11591,10 @@
       "lastSuccess": 1657756010058
     },
     "game-hunt.js": {
-      "total": 248,
-      "success": 147,
-      "last": 1657756426897,
-      "lastSuccess": 1657755636126
+      "total": 251,
+      "success": 148,
+      "last": 1657760037578,
+      "lastSuccess": 1657759908404
     },
     "profile.js": {
       "total": 15,
@@ -11705,10 +11705,10 @@
       "lastSuccess": 1657734838157
     },
     "dungeon.js": {
-      "total": 328,
-      "success": 328,
-      "last": 1657756417764,
-      "lastSuccess": 1657756417764
+      "total": 329,
+      "success": 329,
+      "last": 1657759957148,
+      "lastSuccess": 1657759957148
     },
     "meracik.js": {
       "total": 31,
