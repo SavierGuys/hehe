@@ -11,9 +11,9 @@ let handler = function (m) {
 
 }
 handler.help = ['del', 'delete']
-handler.tags = ['owner']
+handler.tags = ['tools']
 
 handler.command = /^del(ete)?$/i
-handler.owner = true
+handler.admin = true
 
 module.exports = handler
